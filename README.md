@@ -1,2 +1,2 @@
 # CloakGeoIP
-Laravel Cloaking GeoIP
+Laravel Cloaking GeoIP2
